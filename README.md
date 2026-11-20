@@ -35,7 +35,8 @@ The screen below shows a sample completed LinkedIn profile page, illustrating ho
 <img width="572" height="439" alt="image" src="https://github.com/user-attachments/assets/be7d299c-31c9-49fc-9f8f-63853af11bd6" />
 ## OUTPUT
 A simple, professional LinkedIn profile page is created, containing a profile photo, background banner, headline, About summary, Education, Experience, and Skills sections, and is ready to be shared through a public profile link.
+<img width="1626" height="967" alt="Personalised LinkedIn Profile Header" src="https://github.com/user-attachments/assets/55cd4dbb-1419-405d-850f-2433b801bf8c" />
+
 ## RESULT
 Thus, a simple and professional profile page was successfully created on LinkedIn, with all essential sections filled in correctly and the profile made ready for sharing.
-## CONCLUSION
 In conclusion, creating a LinkedIn profile is a simple but important step in building a professional online identity. By filling in accurate details across the Photo, Headline, About, Education, Experience, and Skills sections, students and faculty can present themselves professionally to recruiters, peers, and the wider academic and industry community.
